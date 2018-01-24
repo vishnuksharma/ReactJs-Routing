@@ -1,0 +1,30 @@
+.services-component{
+    padding-bottom: 70px;
+    /* color: #3f3f3f; */
+}
+.services-component span{
+    /* float: left; */
+    padding: 10px;
+    font-family: Monaco,Consolas,"Andale Mono","DejaVu Sans Mono",monospace;
+    /* color: #3f3f3f; */
+}
+.bg-service {
+    background-color: #1abc9c;
+    /* color: #ffffff; */
+}
+.line{
+    background: #f33;
+    height: 1px;
+    width: 100%;
+    float: left;
+    clear: both;
+    display: block;
+    margin-bottom: 30px;
+}
+.dandcoder{
+    display: inline !important;
+}
+.col-centered{
+    float: none !important;
+    margin: 0 auto;
+}

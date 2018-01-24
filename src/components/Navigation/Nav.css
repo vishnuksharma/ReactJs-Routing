@@ -1,0 +1,7 @@
+.navigation nav ul li a.active, .navigation nav ul li a.active:focus, .navigation nav ul li a.active:hover{
+  color: #fff;
+  background-color: #080808;
+}
+.navbar-component{
+  margin-bottom: 0px !important;
+}

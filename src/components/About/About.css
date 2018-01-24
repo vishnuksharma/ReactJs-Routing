@@ -1,0 +1,10 @@
+.about-component {
+    padding-bottom: 70px;
+}
+.bg-1 {
+    background-color: #1abc9c;
+    /* color: #ffffff; */
+}
+.myself{
+    display: inline !important;
+}
